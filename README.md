@@ -1,7 +1,10 @@
 <h1 align="center">BCH_Low_Blood_Pressure_Analysis Project</h1>
 
+## 📌 Introduction
+During pediatric surgeries, **low blood pressure** can pose serious risks. This project analyzes blood pressure data to detect cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
+
 ## Problem Statement
-The challenge is that hospitals collect thousands of readings per patient, and finding extended low BP periods manually is like searching for a needle in a haystack. This project was born from the need to automate that search — by using age-based medical thresholds to scan for any patient who experienced 14 or more consecutive minutes of dangerously low BP during surgery.
+During pediatric surgeries, **low blood pressure** can pose serious risks. This project analyzes blood pressure data to detect cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
 
 <h3 align="center">Objective & Purpose</h3>
 
