@@ -12,6 +12,12 @@ BCH medical team faced a complex data challenge:
   
 - They needed to find continuous periods of low blood pressure lasting 14 minutes or more
 
+  
+## 📌 Why This Project?
+- **Increased focus on patient safety** in surgeries.
+- **Large datasets make it difficult to track prolonged low BP cases manually**.
+- **Improving real-time monitoring systems** can help prevent serious complications.
+
 <h3 align="center">Objective & Purpose</h3>
 
 - I’m currently learning **Machine Learning**, **Python (Advanced)**, and **Storytelling with Data**
