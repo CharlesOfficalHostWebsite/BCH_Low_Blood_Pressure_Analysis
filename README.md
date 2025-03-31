@@ -22,8 +22,21 @@ BCH medical team faced a complex data challenge:
 - **Large datasets make it difficult to track prolonged low BP cases manually**.
 - **Improving real-time monitoring systems** can help prevent serious complications.
 
-<h3 align="center">Objective & Purpose</h3>
+## 🛠️ Data & Methodology
+1. **Data Collection** – Extracted patient demographics and blood pressure readings.
+2. **Data Cleaning** – Removed errors, missing values, and inconsistencies.
+3. Developed a Python-powered ETL (Extract, Transform, Load) solution that:
+4. Reads patient demographic and blood pressure data
+5. Dynamically calculates age-specific blood pressure thresholds
+6. **Analysis** – Identified low BP events lasting **14+ consecutive minutes**.
+7. **Visualization** – Created **bar charts and timelines** to analyze trends.
+8. **Reporting** – Generated a **final report and PowerPoint presentation**.
 
-- I’m currently learning **Machine Learning**, **Python (Advanced)**, and **Storytelling with Data**
-- How to reach me: **peter.analytics@gmail.com**
-- Fun fact: I used to decode flight routes as a hobby — now I decode data for real-world insights
+## 📊 Key Results & Visual Insights
+From our analysis, we discovered:
+- 5 unique patients with prolonged low blood pressure events
+- Periods ranging from 14 to 24 continuous minutes of low BP
+- Potential critical moments that might have gone unnoticed without this analysis
+- Patient 456: Youngest patient (39 months), 20 minutes of low BP
+- Patient 987: Longest low BP period of 24 minutes
+- Multiple patients across different ages showed concerning BP patterns
