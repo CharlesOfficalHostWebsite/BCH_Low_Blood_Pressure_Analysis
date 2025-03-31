@@ -12,6 +12,10 @@ BCH medical team faced a complex data challenge:
   
 - They needed to find continuous periods of low blood pressure lasting 14 minutes or more
 
+## 🎯 Objective
+- Identify patients whose **blood pressure dropped dangerously low for 14+ minutes**.
+- Generate a **report listing affected patients and duration of low BP events**.
+- Provide **insights through visualizations** to help doctors analyze trends.
   
 ## 📌 Why This Project?
 - **Increased focus on patient safety** in surgeries.
