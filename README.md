@@ -9,12 +9,6 @@ BCH medical team faced a complex data challenge:
 - They had two separate datasets: patient demographics and minute-by-minute blood pressure readings
   
 - Identifying low blood pressure isn't a one-size-fits-all approach, as different age groups have different blood pressure thresholds.
-
-  <h3 align="center">The threshold for "low blood pressure" changes based on a child's age:</h3>
-
-- Children under 44 months: Low BP is 46 mmHg or below
-
-- Children 44 months and older: Low BP is 55 mmHg or below
   
 - They needed to find continuous periods of low blood pressure lasting 14 minutes or more
 
