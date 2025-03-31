@@ -10,7 +10,7 @@ BCH medical team faced a complex data challenge:
   
 - Identifying low blood pressure isn't a one-size-fits-all approach, as different age groups have different blood pressure thresholds.
 
-  ### The threshold for "low blood pressure" changes based on a child's age:
+  <h3 align="center">The threshold for "low blood pressure" changes based on a child's age:</h3>
 
 - Children under 44 months: Low BP is 46 mmHg or below
 
