@@ -3,6 +3,9 @@
 ## 📌 Introduction
 During pediatric surgeries, **low blood pressure** can pose serious risks. This project analyzes blood pressure data to detect cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
 
+⚠️ Problem Statement
+Blood pressure monitoring during surgeries is crucial, but **prolonged low BP incidents often go unnoticed** in large datasets. Without clear tracking, medical teams may miss critical cases, leading to potential health risks for children.
+
 ## Problem Statement
 During pediatric surgeries, **low blood pressure** can pose serious risks. This project analyzes blood pressure data to detect cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
 
