@@ -4,7 +4,15 @@
 During pediatric surgeries, **low blood pressure** can pose serious risks. This project analyzes blood pressure data to detect cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
 
 ## ⚠️ Problem Statement
-During pediatric surgeries, **low blood pressure** can pose serious risks. This project analyzes blood pressure data to detect cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
+BCH medical team faced a complex data challenge:
+
+- They had two separate datasets: patient demographics and minute-by-minute blood pressure readings
+  
+- Identifying low blood pressure isn't a one-size-fits-all approach
+  
+- Different age groups have different blood pressure thresholds
+  
+- They needed to find continuous periods of low blood pressure lasting 14 minutes or more
 
 <h3 align="center">Objective & Purpose</h3>
 
