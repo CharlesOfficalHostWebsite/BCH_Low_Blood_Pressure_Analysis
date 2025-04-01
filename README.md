@@ -1,19 +1,23 @@
 <h1 align="center">BCH_Low_Blood_Pressure_Analysis Project</h1>
 
 ## 📌 Introduction
-During pediatric surgeries, **low blood pressure** can pose serious risks. This project analyzes blood pressure data to detect cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
+During pediatric surgeries, every moment is critical. Monitoring patient vital signs, especially **blood pressure**, can mean the difference between life and death. This project analyzes blood pressure data to identify cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
+
 
 ## ⚠️ Problem Statement
-BCH medical team faced a complex data challenge:
+Boston Children's Hospital (BCH) medical team  face a complex challenge:
 
 - They had two separate datasets: patient demographics and minute-by-minute blood pressure readings
   
-- Identifying low blood pressure isn't a one-size-fits-all approach, as different age groups have different blood pressure thresholds.
+- identifying prolonged periods of low blood pressure across different pediatric age groups (as different age groups have different blood pressure thresholds), using data from multiple sources.
   
 - They needed to find continuous periods of low blood pressure lasting 14 minutes or more
 
 ## 🎯 Objective
-- Identify patients whose **blood pressure dropped dangerously low for 14+ minutes**.
+Our project aimed to:
+- Develop an automated system to detect low blood pressure events
+- Create age-specific thresholds for identifying critical BP drops lasting for  14+ minutes or more
+- Generate actionable insights for medical professionals
 - Generate a **report listing affected patients and duration of low BP events**.
 - Provide **insights through visualizations** to help doctors analyze trends.
   
