@@ -1,4 +1,4 @@
-<h1 align="center">BCH_Low_Blood_Pressure_Analysis Project</h1>
+<h1 align="center">Boston Children Hospital (BCH) Blood Pressure Analysis Project</h1>
 
 ## 📌 Introduction
 During pediatric surgeries, every moment is critical. Monitoring patient vital signs, especially **blood pressure**, can mean the difference between life and death. This project analyzes blood pressure data to identify cases where **systolic BP dropped below safe thresholds for at least 14 minutes**, helping medical teams assess and mitigate risks.
